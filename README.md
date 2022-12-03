@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/sanavila">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanavila&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanavila&count_private=true"/>
+    <img height="180em" src="https://github.com/sanavila/github-readme-stats"/>
 </div>
 <!---
 sanavila/sanavila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
